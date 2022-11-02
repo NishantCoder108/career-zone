@@ -1,0 +1,207 @@
+ [
+    {
+        "name": "Beagle",
+        "price": 2400,
+        "age": 6
+    },
+    {
+        "name": "Labrador",
+        "price": 3400,
+        "age": 9
+    },
+    {
+        "name": "Shepherd",
+        "price": 2600,
+        "age": 3
+    },
+    {
+        "name": "Boxer",
+        "price": 5000,
+        "age": 3.9
+    },
+   {
+        "name": "Rottweiler",
+        "price": 4000
+    },
+    {
+        "name": "Akbash",
+        "price": 3600
+    },
+    {
+        "name": "komondor",
+        "price": 5600
+    },
+    {
+        "name": "Hungarian",
+        "price": 5900
+    },
+    {
+        "name": "Papillon",
+        "price": 4000
+    },
+    {
+        "name": "Dobermann",
+        "price": 3400
+    },
+    {
+        "name": "Shepherd",
+        "price": 2900
+    },
+    {
+        "name": "Dobermann",
+        "price": 5000
+    },
+    {
+        "name": "Rottweiler",
+        "price": 4000
+    },
+    {
+        "name": "Akbash",
+        "price": 3600
+    },
+    {
+        "name": "komondor",
+        "price": 5600
+    },
+    {
+        "name": "Hungarian",
+        "price": 5900
+    },
+    {
+        "name": "Papillon",
+        "price": 4000
+    },
+    {
+        "name": "Bulldog",
+        "price": 3400
+    },
+    {
+        "name": "Shepherd",
+        "price": 2850
+    },
+    {
+        "name": "Yorkshire",
+        "price": 5000
+    },
+    {
+        "name": "Rottweiler",
+        "price": 4000
+    },
+    {
+        "name": "Akbash",
+        "price": 3180
+    },
+    {
+        "name": "komondor",
+        "price": 5130
+    },
+    {
+        "name": "Hungarian",
+        "price": 5120
+    },
+    {
+        "name": "Papillon",
+        "price": 4110
+    },
+    {
+        "name": "Malamute",
+        "price": 3400
+    },
+    {
+        "name":"Shepherd",
+        "price": 1900
+    },
+    {
+        "name": "Yorkshire",
+        "price": 5800
+    },
+    {
+        "name": "Rottweiler",
+        "price": 4700
+    },
+    {
+        "name": "Akbash",
+        "price": 3600
+    },
+    {
+        "name": "komondor",
+        "price": 5500
+    },
+    {
+        "name": "Hungarian",
+        "price": 5400
+    },
+    {
+        "name": "Papillon",
+        "price": 4300
+    },
+    {
+        "name": "Akita",
+        "price": 3200
+    },
+    {
+        "name": "Shepherd",
+        "price": 2700
+    },
+    {
+        "name": "Havanese",
+        "price": 5100
+    },
+    {
+        "name": "Rottweiler",
+        "price": 4100
+    },
+    {
+        "name": "Akbash",
+        "price": 3100
+    },
+    {
+        "name": "komondor",
+        "price": 5600
+    },
+    {
+        "name": "Hungarian",
+        "price": 5100
+    },
+    {
+        "name": "Papillon",
+        "price": 4000
+    },
+    {
+        "name": "Chihuahua",
+        "price": 3100,
+        "age":9
+    },
+    {
+        "name": "Shepherd",
+        "price": 1400,
+        "age:":8
+    },
+    {
+        "name": "Afghan",
+        "price": 5100
+    },
+    {
+        "name": "Rottweiler",
+        "price": 4100,
+        "age" :4
+    },
+    {
+        "name": "Akbash",
+        "price": 3100
+    },
+    {
+        "name": "komondor",
+        "price": 5100
+    },
+    {
+        "name": "Hungarian",
+        "price": 5100
+    },
+    {
+        "name": "Papillon",
+        "price": 4100
+    }
+    
+
+]

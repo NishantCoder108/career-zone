@@ -1,0 +1,36 @@
+.main{
+    height: 300px;
+    width: 300px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    stroke-width: 0;
+    overflow-x: hidden;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.main::-webkit-scrollbar {
+    display: none;
+}
+/* Hide scrollbar for IE, Edge and Firefox */
+.main {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+input{
+    width: 94%;
+    height: 50px;
+    font-size: 19px;
+    font-weight: bold;
+    padding-left: 12px;
+    /* margin: 21px; */
+}
+.item{
+    padding: 21px;
+    border: 2px solid grey;
+    cursor: pointer;
+}
+.item:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
