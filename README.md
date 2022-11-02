@@ -1,7 +1,7 @@
 # Challenges Accepted
 
 This React App is [LIVE](https://career-zone.netlify.app/).\
-React Application [GithHub CODE](https://career-zone.netlify.app/).
+React Application [GithHub CODE](https://github.com/thinkwithcode/career-zone).
 
 ## Where to find
 
