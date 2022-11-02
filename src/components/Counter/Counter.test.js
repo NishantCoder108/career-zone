@@ -6,7 +6,7 @@ describe(Counter, () => {
         const { getByTestId } = render(<Counter initialCount={0} />);
         const countValue = Number(getByTestId("count").textContent);
 
-        expect(countValue).toEqual(0)
+        expect(countValue).toEqual(0 )
     })
 
 
